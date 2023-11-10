@@ -1,3 +1,1 @@
-
-
-"# little-lemon-app" 
+# Little Lemon Project
